@@ -1,0 +1,1 @@
+La valeur de la température est égale à : 22
